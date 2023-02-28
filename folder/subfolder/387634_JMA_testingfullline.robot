@@ -2,10 +2,14 @@
 Documentation    JMA testingfullline
 ...
 ...              JMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfulllineJMAtestingfullline
+...
+...
+...
+...              2eme iteration
 Metadata         ID                           387634
-Metadata         Reference                    JMA testingfullline
-Metadata         Automation priority          2
-Metadata         Test case importance         Low
+Metadata         Reference                    JMA testingfullline2nditeration
+Metadata         Automation priority          6
+Metadata         Test case importance         High
 Resource         squash_resources.resource
 Test Setup       Test Setup
 Test Teardown    Test Teardown
