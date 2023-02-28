@@ -1,17 +1,5 @@
 *** Settings ***
 Documentation    JMA CT14
-...
-...              Afficher la documentation et les metadata d'un CT BDD dans un script Robot 
-...              framework
-...
-...              egmiuhgzeoigjazeùf apoef  zegok  at" a5
-...
-...              6+5 z z+e zerhrtjrtj ze z2e1ze z
-...
-...              6  ztirergioje6  ztirergioje6  ztirergioje6  ztirergioje6  ztirergioje6  z
-...              tirergioje6  ztirergioje6  ztirergioje6  ztirergioje
-...
-...              rhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrthrhrth
 Metadata         ID                           387633
 Metadata         Reference                    JMA CT14
 Metadata         Automation priority          2
@@ -24,6 +12,10 @@ Test Teardown    Test Teardown
 *** Test Cases ***
 JMA CT14
     [Documentation]    JMA CT14
+
+    Given yhd,ttyk
+    Given dtrn
+    Then bgnfd
 
 
 *** Keywords ***
